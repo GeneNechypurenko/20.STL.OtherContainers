@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.Stack/01.Stack.vcxproj" />
+  <Project Path="02.Queue/02.Queue.vcxproj" />
+  <Project Path="03.List/03.List.vcxproj" />
+  <Project Path="04.Map/04.Map.vcxproj" />
+  <Project Path="05.OtherContainers/05.OtherContainers.vcxproj" />
+</Solution>
